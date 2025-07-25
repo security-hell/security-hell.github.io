@@ -1,0 +1,32 @@
+body {
+	max-width: 600px;
+	margin: auto;
+	padding-right: 1rem;
+	padding-left: 1rem;
+}
+
+header {
+	margin: 2rem 0 4rem;
+}
+
+h1 {
+  font-family: "Ledger", serif;
+  font-size: 3rem;
+  font-style: italic;
+  margin: 0;
+}
+
+.subtitle {
+	color: rgb(54, 54, 54);
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.825rem;
+}
+
+img {
+	width: 50%;
+}
+
+p {
+  font-family: "Frank Ruhl Libre", serif;
+  font-size: 1rem;
+}
